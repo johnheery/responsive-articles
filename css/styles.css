@@ -1,0 +1,15 @@
+body { display: table;margin: 0 auto;}
+h1 {font-size:24px;text-align:center;}
+
+/*list items*/*
+li {padding-bottom:10px;padding-top:10px;border:solid 1px #ccc;margin-bottom:5px;list-style-position:inside;text-align:center;width:90%;background-color:#eee;}
+
+
+/*modal */*
+.date,
+.uniqueId{padding:15px;}
+.uniqueId{font-size:10px;color:#ccc;}
+
+
+
+
